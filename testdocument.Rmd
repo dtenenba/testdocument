@@ -1,0 +1,32 @@
+<!--
+%\VignetteEngine{knitr::knitr}
+%\VignetteIndexEntry{a vignette without a package}
+-->
+
+# This is a vignette.
+
+
+Let's try loading a package.
+
+```{r}
+library(png)
+```
+
+And another package.
+
+```{r}
+require("httr")
+```
+
+Add two numbers:
+
+```{r}
+2+2
+```
+
+Here is another chunk, with a graphic:
+
+```{r}
+plot(10:1)
+```
+
