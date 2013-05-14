@@ -1,0 +1,19 @@
+<!--
+%\VignetteEngine{knitr::knitr}
+-->
+
+This is another vignette.
+
+Here is a static image:
+
+<img src="logo_bioconductor.gif"/>
+
+Here is some text below the static image.
+
+Here is some R code:
+
+```{r}
+plot(10:20)
+```
+
+That concludes this vignette.
